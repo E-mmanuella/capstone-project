@@ -91,7 +91,7 @@ h2 , h3 {
 
 .container6-mf a {
     color: grey;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .container6-mf a:hover {
@@ -111,6 +111,7 @@ h2 , h3 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: white;
 }
 
 .container8-mf a {
